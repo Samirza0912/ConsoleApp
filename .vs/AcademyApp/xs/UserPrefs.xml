@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D742673A-03D1-4FBB-B6BD-D441A290F0D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcademyApp/Program.cs">
+    <Files>
+      <File FileName="AcademyApp/Program.cs" Line="28" Column="49" />
+      <File FileName="AcademyApp/Controllers/StudentController.cs" Line="1" Column="1" />
+      <File FileName="AcademyApp/Controllers/GroupController.cs" Line="1" Column="1" />
+      <File FileName="Business/Interfaces/IGroup.cs" Line="1" Column="1" />
+      <File FileName="Business/Services/GroupService.cs" Line="31" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcademyApp" expanded="True">
+            <Node name="AcademyApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AcademyApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
