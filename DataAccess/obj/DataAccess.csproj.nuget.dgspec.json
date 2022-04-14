@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj": {}
+    "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj": {
+    "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/samiramiraslanov/.nuget/packages/",
-        "outputPath": "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/obj/",
+        "outputPath": "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samiramiraslanov/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/Entities.csproj": {
-                "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/Entities.csproj"
+              "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/Entities.csproj": {
+                "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/Entities.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/Entities.csproj": {
+    "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/Entities.csproj",
+        "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/Entities.csproj",
         "packagesPath": "/Users/samiramiraslanov/.nuget/packages/",
-        "outputPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Entities/obj/",
+        "outputPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samiramiraslanov/.config/NuGet/NuGet.Config"

@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samiramiraslanov/Downloads/AcademyApp/Business/Business.csproj",
+      "projectUniqueName": "/Users/samiramiraslanov/Desktop/AcademyApp/Business/Business.csproj",
       "projectName": "Business",
-      "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Business/Business.csproj",
+      "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Business/Business.csproj",
       "packagesPath": "/Users/samiramiraslanov/.nuget/packages/",
-      "outputPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Business/obj/",
+      "outputPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samiramiraslanov/.config/NuGet/NuGet.Config"
@@ -690,8 +690,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/DataAccess/DataAccess.csproj"
+            "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/DataAccess/DataAccess.csproj"
             }
           }
         }

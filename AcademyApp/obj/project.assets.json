@@ -705,11 +705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samiramiraslanov/Downloads/AcademyApp/AcademyApp/AcademyApp.csproj",
+      "projectUniqueName": "/Users/samiramiraslanov/Desktop/AcademyApp/AcademyApp/AcademyApp.csproj",
       "projectName": "AcademyApp",
-      "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/AcademyApp/AcademyApp.csproj",
+      "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/AcademyApp/AcademyApp.csproj",
       "packagesPath": "/Users/samiramiraslanov/.nuget/packages/",
-      "outputPath": "/Users/samiramiraslanov/Downloads/AcademyApp/AcademyApp/obj/",
+      "outputPath": "/Users/samiramiraslanov/Desktop/AcademyApp/AcademyApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samiramiraslanov/.config/NuGet/NuGet.Config"
@@ -724,11 +724,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/samiramiraslanov/Downloads/AcademyApp/Business/Business.csproj": {
-              "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Business/Business.csproj"
+            "/Users/samiramiraslanov/Desktop/AcademyApp/Business/Business.csproj": {
+              "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Business/Business.csproj"
             },
-            "/Users/samiramiraslanov/Downloads/AcademyApp/Utilities/Utilities.csproj": {
-              "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Utilities/Utilities.csproj"
+            "/Users/samiramiraslanov/Desktop/AcademyApp/Utilities/Utilities.csproj": {
+              "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Utilities/Utilities.csproj"
             }
           }
         }

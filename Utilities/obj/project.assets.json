@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samiramiraslanov/Downloads/AcademyApp/Utilities/Utilities.csproj",
+      "projectUniqueName": "/Users/samiramiraslanov/Desktop/AcademyApp/Utilities/Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Utilities/Utilities.csproj",
+      "projectPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Utilities/Utilities.csproj",
       "packagesPath": "/Users/samiramiraslanov/.nuget/packages/",
-      "outputPath": "/Users/samiramiraslanov/Downloads/AcademyApp/Utilities/obj/",
+      "outputPath": "/Users/samiramiraslanov/Desktop/AcademyApp/Utilities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samiramiraslanov/.config/NuGet/NuGet.Config"
